@@ -1,0 +1,12 @@
+.card {
+  background-color: white;
+  border: 7px solid teal;
+  border-radius: 10px;
+  width: 200px;
+  margin: 20px 0px;
+}
+
+h2,
+p {
+  color: teal;
+}
